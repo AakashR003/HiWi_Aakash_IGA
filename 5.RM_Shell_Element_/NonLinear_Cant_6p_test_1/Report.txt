@@ -1,0 +1,1 @@
+tried various max peak load to converge the nonlinear iteration. but 0.2 was the peak load it got converged with same load step and same CP and degree of curve
