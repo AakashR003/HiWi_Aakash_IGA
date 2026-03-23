@@ -1,7 +1,7 @@
 # Isogeometric Analysis (IGA) with KratosMultiphysics
 
 ## Overview
-This folder is a part of HiWi (Student Research Assistant) my work in **Isogeometric Analysis** using the **Kratos Multiphysics** framework. It contains multiple case studies and validations for IGA elements.
+This folder is a part of HiWi (Student Research Assistant) work in **Isogeometric Analysis** using the **Kratos Multiphysics** framework. It contains multiple case studies and validations for IGA elements.
 
 ## Structure
 
