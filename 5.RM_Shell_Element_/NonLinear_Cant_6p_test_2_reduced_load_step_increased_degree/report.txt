@@ -1,1 +1,0 @@
-with the reduced load step value = 0.01, the solver converged untill 0.25
