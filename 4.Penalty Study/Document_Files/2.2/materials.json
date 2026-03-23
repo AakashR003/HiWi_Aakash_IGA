@@ -1,0 +1,31 @@
+{
+    "properties": [
+        {
+            "model_part_name": "IgaModelPart.StructuralAnalysis_1",
+            "properties_id": 1,
+            "Material": {
+                "name": "Steel",
+                "constitutive_law": {
+                    "name": "LinearElasticPlaneStress2DLaw"
+                },
+                "Variables": {
+                    "THICKNESS": 0.25,
+                    "YOUNG_MODULUS": 4.32e8,
+                    "POISSON_RATIO": 0,
+                    "DENSITY": 1
+                },
+                "Tables": {}
+            }
+        },
+        {
+            "model_part_name": "IgaModelPart.Coupling_6",
+            "properties_id": 6,
+            "Material": {
+                "Variables": {
+                    "PENALTY_FACTOR": 1.44e11
+                },
+                "Tables": {}
+            }
+        }
+    ]
+}
