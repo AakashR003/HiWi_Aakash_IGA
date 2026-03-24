@@ -13,7 +13,7 @@ The repository contains 6 case studies and each case study has the following doc
 
 Brief explanation to the case study:
 
-### 1. [Scordelis-Lo Roof - Single Patch](./1.Scodrillo%20Roof_Single_Patch/)
+### 1. [Scordelis-Lo Roof - Single Patch](./1.Scordelis-Lo%20Roof_Single_Patch/)
 - Validation of Shell3p element (Kirchhoff Shell element) in Kratos with single patch Scordelis-Lo Roof.
 - Benchmark: Josef M. Kiendl Dissertation (Can be found in the folder)
 
