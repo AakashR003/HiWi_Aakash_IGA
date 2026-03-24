@@ -13,8 +13,8 @@ The repository contains 6 case studies and each case study has the following doc
 
 Brief explanation to the case study:
 
-### 1. [Scodrillo Roof - Single Patch](./1.Scodrillo%20Roof_Single_Patch/)
-- Validation of Shell3p element (Kirchhoff Shell element) in Kratos with single patch Scodrillo roof.
+### 1. [Scordelis-Lo Roof - Single Patch](./1.Scodrillo%20Roof_Single_Patch/)
+- Validation of Shell3p element (Kirchhoff Shell element) in Kratos with single patch Scordelis-Lo Roof.
 - Benchmark: Josef M. Kiendl Dissertation (Can be found in the folder)
 
 ### 2. [Plate with Hole](./2.Plate%20with%20hole/)
@@ -27,7 +27,7 @@ Brief explanation to the case study:
 - Benchmark: Michael Breitenberger Dissertation (Can be found in the folder)
 
 ### 4. [Penalty Study](./4.Penalty%20Study/)
-- Investigation of penalty parameters for conforming and non-conforming multipatch on Scodrillo Roof
+- Investigation of penalty parameters for conforming and non-conforming multipatch on Scordelis-Lo Roof
 - Reference: "Penalty coupling of non-matching isogeometric Kirchhoff–Love shell patches with application to composite wind turbine blades"
 
 ### 5. [Reissner-Mindlin Shell Element](./5.Reissner-Mindlin%20Shell%20Element/)
