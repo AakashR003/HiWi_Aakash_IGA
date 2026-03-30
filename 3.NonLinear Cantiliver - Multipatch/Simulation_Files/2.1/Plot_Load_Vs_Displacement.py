@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import matplotlib.ticker as ticker
 
 # ─────────────────────────────────────────────
-NODE_ID   = 210
+NODE_ID   = 105
 FILE_PATH = "NonlinearCant_kratos_shell_1.post.res"
 # ─────────────────────────────────────────────
 
