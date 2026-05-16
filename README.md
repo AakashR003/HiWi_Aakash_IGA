@@ -1,7 +1,7 @@
 # Isogeometric Analysis (IGA) with KratosMultiphysics
 
 ## Overview
-This repository contains my work as a **HiWi (Student Research Assistant)** on **Isogeometric Analysis (IGA)** using the [Kratos Multiphysics](https://github.com/KratosMultiphysics/Kratos) framework.I developed and validated multiple IGA case studies, which have been merged into the official repository. 
+This repository contains my work as a **HiWi (Student Research Assistant)** on **Isogeometric Analysis (IGA)** using the [Kratos Multiphysics](https://github.com/KratosMultiphysics/Kratos) framework. I developed and validated multiple IGA case studies, which have been merged into the official repository.  
 **Official Contribution**: [KratosMultiphysics/Examples - IGA Validation](https://github.com/KratosMultiphysics/Examples/tree/master/iga/validation). 
 
 ## Structure
